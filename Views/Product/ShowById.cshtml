@@ -1,6 +1,6 @@
 ﻿@model Product
 
-<figure class="text-center">
+<figure class="text-center m-4">
     <blockquote class="blockquote">
         <h1 class="display-5">Product Details</h1>
     </blockquote>
@@ -10,7 +10,7 @@
 </figure>
 
 <div class="d-flex justify-content-center" style="min-height: 100vh;">
-	<div class="card mb-3 p-3" style="max-width:60%; height: 400px">
+	<div class="card mb-3 p-3 shadow-sm rounded" style="max-width:60%; height: 400px">
 		<div class="row g-0">
 			<div class="col-md-4">
 				<img src="~/images/@Model.ImageUrl" 
@@ -31,7 +31,7 @@
 			</div>
 		</div>	
 		<div class="row g-1">
-			<form asp-controller="Product" asp-action="ShowProductList"
+			<form asp-controller="Product" asp-action="GetProductList"
 				  class="align-middle text-center mt-3"
 				  method="get">
 				<button type="submit" class="btn btn-outline-secondary">Back to All Products</button>

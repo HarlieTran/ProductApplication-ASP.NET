@@ -1,5 +1,5 @@
 ﻿@model List<Product>
-    <figure class="text-center">
+    <figure class="text-center m-4">
         <blockquote class="blockquote">
             <h1 class="display-5">Product List</h1>
         </blockquote>
@@ -33,9 +33,9 @@
 						style="width: 150px; height: 150px; object-fit:cover"/>
 				</td>
 				<td>
-					<form asp-controller="Product" asp-action="ProductDetail" method="get">
+					<form asp-controller="Product" asp-action="GetById" method="get">
 						<input type="hidden" name="id" value="@product.Id" />
-						<button type="submit" class="btn btn-outline-secondary">Detail</button>
+						<button type="submit" class="btn btn-outline-secondary">Details</button>
 					</form>
 					
 				</td>

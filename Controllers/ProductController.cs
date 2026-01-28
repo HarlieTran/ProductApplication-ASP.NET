@@ -10,17 +10,21 @@ namespace ProductApplication.Controllers
         {
             return View();
         }
-        public IActionResult ShowProductList()
+
+        //An action that returns all products
+        public IActionResult GetProductList()
         {
             List<Product> products = productBL.GetAllProducts();
             return View("ShowAll", products);
         }
 
-        public IActionResult ProductDetail(int id)
+        //An action that returns a single product by its ID
+        public IActionResult GetById(int id)
         {
             Product product = productBL.GetProductById(id);
 
-            if(product != null)
+            //Error handling for invalid IDs
+            if (product != null)
             {
                 return View("ShowById", product);
             }

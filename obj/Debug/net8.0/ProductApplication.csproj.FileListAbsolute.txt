@@ -64,3 +64,4 @@ C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\refint\P
 C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.pdb
 C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.genruntimeconfig.cache
 C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ref\ProductApplication.dll
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.sourcelink.json

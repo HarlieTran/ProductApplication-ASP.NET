@@ -2,12 +2,14 @@
 {
     public class ProductBL
     {
+        //Contain a list of Product objects
         public List<Product> Products { get; set; }
 
         public ProductBL()
         {
             Products = new List<Product>
             {
+                //Add 5 sample products
                 new Product
                 {
                     Id = 1,
@@ -55,10 +57,14 @@
                 }
             };
         }
+
+        //A method to return all products
         public List<Product> GetAllProducts()
         {
             return Products;
         }
+
+        //A method to return a single product by ID
         public Product GetProductById(int id)
         {
             return Products.Find(p => p.Id == id);
