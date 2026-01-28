@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|c:\\w26\\prog8555 - microsoft web\\src\\productapplication\\views\\product\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|solutionrelative:views\\product\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|c:\\w26\\prog8555 - microsoft web\\src\\productapplication\\views\\product\\productdetailerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|solutionrelative:views\\product\\productdetailerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|c:\\w26\\prog8555 - microsoft web\\src\\productapplication\\views\\product\\showbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|solutionrelative:views\\product\\showbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowById.cshtml",
+              "DocumentMoniker": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Views\\Product\\ShowById.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\ShowById.cshtml",
+              "ToolTip": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Views\\Product\\ShowById.cshtml",
+              "RelativeToolTip": "Views\\Product\\ShowById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T18:20:29.477Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +45,22 @@
               "RelativeDocumentMoniker": "Views\\Product\\ShowAll.cshtml",
               "ToolTip": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Views\\Product\\ShowAll.cshtml",
               "RelativeToolTip": "Views\\Product\\ShowAll.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-28T17:47:31.933Z",
+              "WhenOpened": "2026-01-28T18:20:14.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDetailError.cshtml",
+              "DocumentMoniker": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Views\\Product\\ProductDetailError.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\ProductDetailError.cshtml",
+              "ToolTip": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Views\\Product\\ProductDetailError.cshtml",
+              "RelativeToolTip": "Views\\Product\\ProductDetailError.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T18:18:51.673Z",
               "EditorCaption": ""
             }
           ]
