@@ -1,0 +1,66 @@
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\bin\Debug\net8.0\appsettings.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\bin\Debug\net8.0\ProductApplication.staticwebassets.runtime.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\bin\Debug\net8.0\ProductApplication.staticwebassets.endpoints.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\bin\Debug\net8.0\ProductApplication.exe
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\bin\Debug\net8.0\ProductApplication.deps.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\bin\Debug\net8.0\ProductApplication.runtimeconfig.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\bin\Debug\net8.0\ProductApplication.dll
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\bin\Debug\net8.0\ProductApplication.pdb
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\ProductApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\ProductApplication.AssemblyInfoInputs.cache
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\ProductApplication.AssemblyInfo.cs
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\ProductApplication.csproj.CoreCompileInputs.cache
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\ProductApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\ProductApplication.RazorAssemblyInfo.cache
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\ProductApplication.RazorAssemblyInfo.cs
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\scopedcss\bundle\ProductApplication.styles.css
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\scopedcss\projectbundle\ProductApplication.bundle.scp.css
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\ProductApplication.dll
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\refint\ProductApplication.dll
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\ProductApplication.pdb
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\ProductApplication.genruntimeconfig.cache
+C:\W26\PROG8555 - Microsoft Web Technologies\src\ProductApplication\obj\Debug\net8.0\ref\ProductApplication.dll
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\bin\Debug\net8.0\appsettings.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\bin\Debug\net8.0\ProductApplication.staticwebassets.endpoints.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\bin\Debug\net8.0\ProductApplication.staticwebassets.runtime.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\bin\Debug\net8.0\ProductApplication.exe
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\bin\Debug\net8.0\ProductApplication.deps.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\bin\Debug\net8.0\ProductApplication.runtimeconfig.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\bin\Debug\net8.0\ProductApplication.dll
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\bin\Debug\net8.0\ProductApplication.pdb
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.AssemblyInfoInputs.cache
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.AssemblyInfo.cs
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.csproj.CoreCompileInputs.cache
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.RazorAssemblyInfo.cache
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.RazorAssemblyInfo.cs
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\scopedcss\bundle\ProductApplication.styles.css
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\scopedcss\projectbundle\ProductApplication.bundle.scp.css
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.dll
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\refint\ProductApplication.dll
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.pdb
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ProductApplication.genruntimeconfig.cache
+C:\W26\PROG8555 - Microsoft Web\src\ProductApplication\obj\Debug\net8.0\ref\ProductApplication.dll

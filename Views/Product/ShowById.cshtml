@@ -1,0 +1,41 @@
+﻿@model Product
+
+<figure class="text-center">
+    <blockquote class="blockquote">
+        <h1 class="display-5">Product Details</h1>
+    </blockquote>
+    <figcaption class="blockquote-footer">
+        Assignment: Build an ASP.NET Core MVC Product Catalog.
+    </figcaption>
+</figure>
+
+<div class="d-flex justify-content-center" style="min-height: 100vh;">
+	<div class="card mb-3 p-3" style="max-width:60%; height: 400px">
+		<div class="row g-0">
+			<div class="col-md-4">
+				<img src="~/images/@Model.ImageUrl" 
+					class="img-fluid rounded" 
+					style="object-fit:cover"
+					alt="@Model.ProductName" />
+			</div>
+	
+			<div class="col-md-8">
+				<div class="card-body">
+					<h3 class="card-title">@Model.ProductName</h3>
+					<p class="card-text">
+						<strong>Category:</strong> @Model.Category <br />
+						<strong>Price:</strong> $@Model.ProductPrice <br /><br />
+						<strong>Description:</strong> @Model.Description <br />
+					</p>					
+				</div>
+			</div>
+		</div>	
+		<div class="row g-1">
+			<form asp-controller="Product" asp-action="ShowProductList"
+				  class="align-middle text-center mt-3"
+				  method="get">
+				<button type="submit" class="btn btn-outline-secondary">Back to All Products</button>
+			</form>
+		</div>
+	</div>
+</div>
