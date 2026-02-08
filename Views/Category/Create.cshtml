@@ -1,0 +1,31 @@
+﻿@model Category
+
+@{
+    ViewData["Title"] = "Add Category";
+}
+
+@await Html.PartialAsync("_Header", "Add Category")
+
+
+<div class="d-flex justify-content-center">
+    <div class="card mb-3 p-3 shadow-sm rounded h-auto" style="width: 60%">
+        <form asp-action="SaveCreate" method="post" class="mt-4">
+        
+            <div class="mb-3">
+                <label asp-for="CategoryName" class="form-label"></label>
+                <input asp-for="CategoryName" class="form-control" />
+        
+            </div>
+        
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label"></label>
+                <input asp-for="Description" class="form-control"  />
+            </div>
+        
+            <div class="text-center mt-4">
+                <button type="submit" class="btn btn-outline-secondary">Add Category</button>
+                <a asp-action="Index" class="btn btn-outline-secondary ms-2">Back</a>
+            </div>       
+        </form>
+    </div>
+</div>

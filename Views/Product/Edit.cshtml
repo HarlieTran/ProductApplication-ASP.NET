@@ -1,0 +1,64 @@
+﻿@model ProductEditViewModel
+
+@{
+	ViewData["Title"] = "Edit Product";
+}
+
+@await Html.PartialAsync("_Header", "Edit Product")
+
+
+@if (ViewBag.msg != null)
+{
+    <div class="alert alert-info" role="alert">
+        @ViewBag.msg
+    </div>
+}
+
+<div class="d-flex justify-content-center">
+    <div class="card mb-3 p-3 shadow-sm rounded h-auto" style="width: 60%">
+        <form asp-action="SaveEdit" method="post" class="mt-4">
+
+			<input type="hidden" asp-for="Id" />
+
+            <div class="mb-3">
+                <label asp-for="ProductName" class="form-label"></label>
+                <input asp-for="ProductName" class="form-control"/>
+
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="ProductPrice" class="form-label"></label>
+                <input asp-for="ProductPrice" class="form-control" />
+
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="ImageUrl" class="form-label"></label>
+                <input asp-for="ImageUrl" class="form-control" />
+
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label"></label>
+                <input asp-for="Description" class="form-control" />
+
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="CategoryId" class="form-label"></label>
+                <select asp-for="CategoryId" class="form-select">
+                    <option value="">Select Category</option>
+                    @foreach (var category in Model.Categories)
+                    {
+                        <option value="@category.Id">@category.CategoryName</option>
+                    }
+                </select>
+            </div>
+
+            <div class="text-center mt-4">
+                <button type="submit" class="btn btn-outline-secondary">Update</button>
+                <button type="button" onclick="history.back()" class="btn btn-outline-secondary ms-2">Back</button>
+            </div>
+        </form>
+    </div>
+</div>

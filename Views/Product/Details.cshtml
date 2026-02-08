@@ -1,0 +1,40 @@
+﻿@model ProductListViewModel
+
+@{
+	ViewData["Title"] = "Product Details";
+}
+
+@await Html.PartialAsync("_Header", "Product Details")
+
+<div class="d-flex justify-content-center" style="min-height: 100vh;">
+	<div class="card mb-3 p-3 shadow-sm rounded" style="max-width:60%; height: 400px">
+		<div class="row g-0">
+			<div class="col-md-4">
+				<img src="~/images/@Model.ImageUrl" 
+					class="img-fluid rounded" 
+					style="object-fit:cover"
+					alt="@Model.ProductName" />
+			</div>
+	
+			<div class="col-md-8">
+				<div class="card-body">
+					<h3 class="card-title">@Model.ProductName</h3>
+					<p class="card-text">
+						<strong>Category:</strong> @Model.CategoryName <br />
+						<strong>Price:</strong> @Model.ProductPrice.ToString("C") <br /><br />
+						<strong>Description:</strong> @Model.Description <br />
+					</p>					
+				</div>
+			</div>
+		</div>	
+		<div class="text-center mt-4">
+			<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-outline-secondary">
+				Edit
+			</a>
+
+			<button type="button" onclick="history.back()" class="btn btn-outline-secondary">
+				Back
+			</button>
+		</div>
+	</div>
+</div>
