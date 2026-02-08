@@ -1,12 +1,22 @@
-﻿namespace ProductApplication.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ProductApplication.Models
 {
     public class Product
     {
         public int Id { get; set; }
+
+        [Display(Name = "Product Name")]
         public string ProductName { get; set; }
-        public string Category { get; set; } = string.Empty;
+
+        [Display(Name = "Price")]
         public double ProductPrice { get; set; }
+
+        public int CategoryId { get; set; }
+
+        [Display(Name = "Image")]
         public string ImageUrl { get; set; }
+
         public string Description { get; set; }
     }
 }

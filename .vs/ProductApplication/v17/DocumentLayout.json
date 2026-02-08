@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|c:\\w26\\prog8555 - microsoft web\\src\\productapplication\\views\\product\\productdetailerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|solutionrelative:views\\product\\productdetailerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|c:\\w26\\prog8555 - microsoft web\\src\\productapplication\\views\\product\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|solutionrelative:views\\product\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|c:\\w26\\prog8555 - microsoft web\\src\\productapplication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShowAll.cshtml",
-              "DocumentMoniker": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Views\\Product\\ShowAll.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\ShowAll.cshtml",
-              "ToolTip": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Views\\Product\\ShowAll.cshtml",
-              "RelativeToolTip": "Views\\Product\\ShowAll.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswCwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-28T18:20:14.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductDetailError.cshtml",
-              "DocumentMoniker": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Views\\Product\\ProductDetailError.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\ProductDetailError.cshtml",
-              "ToolTip": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Views\\Product\\ProductDetailError.cshtml",
-              "RelativeToolTip": "Views\\Product\\ProductDetailError.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-28T18:18:51.673Z",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:50:01.719Z",
               "EditorCaption": ""
             }
           ]
