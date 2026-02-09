@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|c:\\w26\\prog8555 - microsoft web\\src\\productapplication\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EEC47DD-63E8-4E4C-B81E-1356269D3DCF}|ProductApplication.csproj|solutionrelative:views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\W26\\PROG8555 - Microsoft Web\\src\\ProductApplication\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T13:34:45.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
