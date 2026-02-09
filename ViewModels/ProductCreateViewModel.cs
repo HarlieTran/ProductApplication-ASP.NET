@@ -11,7 +11,6 @@ namespace ProductApplication.ViewModels
         [Display(Name = "Price")]
         public double ProductPrice { get; set; }
 
-        [Display(Name = "Image")]
         public string ImageUrl { get; set; }
 
         public string Description { get; set; }
